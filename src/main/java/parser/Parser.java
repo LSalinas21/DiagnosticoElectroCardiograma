@@ -13,7 +13,6 @@ import ontology.objetos.ondas.*;
 public class Parser {
 
 	private static String patronOndaP = "P\\((\\d+),(\\d+),(.*)\\)";
-	//private static String patronOndaQ = "Q\\((\\d+),(\\d+),(-{0,1}\\d+(\\.\\d+))?\\)";
 	private static String patronOndaQ = "Q\\((\\d+),(\\d+),(.*)\\)";
 	private static String patronOndaR = "R\\((\\d+),(\\d+),(.*)\\)";
 	private static String patronOndaS = "S\\((\\d+),(\\d+),(.*)\\)";
